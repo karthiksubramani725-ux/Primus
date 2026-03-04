@@ -1,0 +1,3 @@
+Diagram 1: Primus Core Logic Flow
+
+Player Action --> Behavior Tracker --> Module Trigger --> In-Game Response

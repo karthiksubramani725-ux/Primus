@@ -1,0 +1,3 @@
+Diagram 2: AI Module Structure
+
+Behavior Rules --> Module Decision --> Difficulty Adjustment --> Feedback Loop
